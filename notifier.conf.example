@@ -1,0 +1,9 @@
+#Telegram Bot Configuration
+BOT_TOKEN="YOUR_TELEGRAM_BOT_TOKEN_HERE"
+CHAT_ID="YOUR_TELEGRAM_CHAT_ID_HERE"
+
+#WireGuard Configuration
+WG_INTERFACE="wg0"
+TIMEOUT=180
+STATE_DIR="/tmp/wg-state"
+CONFIGS_DIR="/home/pi/configs"
